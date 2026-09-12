@@ -37,7 +37,7 @@
         "next": "15.1.6",
         "react": "19.0.0",
         "react-dom": "19.0.0",
-        "react-omni-provider": "0.1.8",
+        "react-omni-provider": "0.1.9",
         "uniqid": "5.4.0"
     },
     "devDependencies": {
